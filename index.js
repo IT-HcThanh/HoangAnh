@@ -1,7 +1,7 @@
-// window.addEventListener('load', function() {
-//     const audio = document.getElementById('background-music');
-//     audio.muted = false; // Unmute the audio after the page loads
-// });
+window.addEventListener('load', function() {
+    const audio = document.getElementById('background-music');
+    audio.muted = false; // Unmute the audio after the page loads
+});
 const contentLetterSrart_actived = "HAPPY BIRTHDAY" //Lời mở đầu cho bức thư
 const mainContentLetter =" 🎂🎂🎂"; //Nội dung của bức thư
 

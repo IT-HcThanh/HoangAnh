@@ -3,8 +3,7 @@ window.addEventListener('load', function() {
     audio.muted = false; // Unmute the audio after the page loads
 });
 const contentLetterSrart_actived = "HAPPY BIRTHDAY" //Lời mở đầu cho bức thư
-const mainContentLetter =
-  "Tình yêu của tui chính là bạn, bạn là một người đặc biệt không thể thiếu trong cuộc sống với tui nếu mà á có 1 lí do nào đó khiến chúng ta không thể gặp nhau nữa thì tui sẽ tìm hàng nghìn hàng trăm lí do để khiến chúng ta ở bên cạnh nhau. Hôm nay là ngày đặc biệt của bạn em bé của tui lại lớn thêm 1 tuổi nữa rồi sinh nhật năm nay của bạn sẽ có tui, đó là điều tôi hạnh phúc nhất. Chúc bạn gặp thật nhiều may mắn trong học tập và gia đình luôn hạnh phúc, mong bạn sớm sẽ là của tui kkk và mọi điều may mắn sẽ tới với bạn. HAPPY BIRTHDAY BÉ RÙA CỦA TÂN 🎂🎂🎂Tình yêu của tui chính là bạn, bạn là một người đặc biệt không thể thiếu trong cuộc sống với tui nếu mà á có 1 lí do nào đó khiến chúng ta không thể gặp nhau nữa thì tui sẽ tìm hàng nghìn hàng trăm lí do để khiến chúng ta ở bên cạnh nhau. Hôm nay là ngày đặc biệt của bạn em bé của tui lại lớn thêm 1 tuổi nữa rồi sinh nhật năm nay của bạn sẽ có tui, đó là điều tôi hạnh phúc nhất. Chúc bạn gặp thật nhiều may mắn trong học tập và gia đình luôn hạnh phúc, mong bạn sớm sẽ là của tui kkk và mọi điều may mắn sẽ tới với bạn. HAPPY BIRTHDAY BÉ RÙA CỦA TÂN 🎂🎂🎂"; //Nội dung của bức thư
+const mainContentLetter =" 🎂🎂🎂"; //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư

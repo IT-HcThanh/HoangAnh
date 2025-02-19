@@ -2,7 +2,7 @@ window.addEventListener('load', function() {
     const audio = document.getElementById('background-music');
     audio.muted = false; // Unmute the audio after the page loads
 });
-const contentLetterSrart_actived = " Hôm nay là ngày rì zậy tarrr 🤔😁 " //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = " Hôm nay là ngày rì vậy tarrr 🤔😁 " //Lời mở đầu cho bức thư
 const mainContentLetter ="Tuổi mới chúc cô e năm tháng sau này, quên đi chuyện cũ, trân trọng hiện tại và yêu lấy chính mình. Cuộc sống thì không lúc nào là bằng phẳng. Mong rằng dù gặp dốc, gặp đèo, trong mắt cô sẽ luôn là ánh sáng, trong nụ cười luôn là sự thẳng thắn vô tư.  Nguyện cho cô gái này mỗi ngày đều giản đơn. Ngẩng đầu lên đều là dịu dàng ấm áp. Chúc mừng sinh nhật ty của iem nhó 🥳🎁🎂"; //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
